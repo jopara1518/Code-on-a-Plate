@@ -1,21 +1,29 @@
   
-#Garlic Basil Chicken with Tomato Butter Sauce
+# Garlic Basil Chicken with Tomato Butter Sauce
 									
-								RECIPE TYPE: SAVOURY 
-->Serves 4<-
+RECIPE TYPE: SAVOURY 
 
+Serves 4
 
-->![image](http://cdn.pinchofyum.com/wp-content/uploads/Garlic-Chicken-with-Butter-Sauce.jpg =400x)<-
+![image](http://cdn.pinchofyum.com/wp-content/uploads/Garlic-Chicken-with-Butter-Sauce.jpg =400x)
 
 
 | PREP TIME | COOKING TIME | TOTAL | 
 | ------ | ----------- |----------|
 | 10 MINS  | 35 MINS | 45 MINS |
 
+## Nutritional Facts:
+
+| Amount per serving | Value |
+| ------ | ----------- |
+| Calories  | 571 |
+| Total Fats | 25.9g |
+| Proteins   | 34.9g |
+| Total Carbohydrate | 49.4g |
 
 
 
-##Equipment you'll need:
+## Equipment you'll need:
 
 - Cling Film or Plastic Wrap
 - Large Skillet
@@ -23,7 +31,7 @@
 - Prepping bowls
 - Knife 
 
-##Ingriedents you'll need:
+## Ingredients you'll need:
 
 - **5 -6** *diced* Roma Tomatoes 
 - **¼** cup **(apx. 60ml)** Olive Oil 
@@ -34,20 +42,13 @@
 - **7** ounces **(apx. 200g)** pasta of choice 
 - **¼** cup Salted Butter - [Exact product used in this recipe ](http://www.landolakes.com/Products/Custom/2222303.aspx)
 
-##Nutritional Facts:
 
-| Amount per serving | Value |
-| ------ | ----------- |
-| Calories  | 571 |
-| Total Fats | 25.9g |
-| Proteins   | 34.9g |
-| Total Carbohydrate | 49.4g |
-
-##Steps:
+## Steps:
 
 * Cover chicken in plastic wrap or film; pound each piece into desired thickness **(between 1 - 1.5 inches)**. Remove plastic wrap and sprinkle generous amounts of *sea salt & freshly ground pepper*.
 
-->![image](http://carnaldish.com/wp-content/uploads/2014/11/pansearedchickenbreast2.jpg =250x) ![image](http://a3145z1.americdn.com/wp-content/uploads/2014/08/sea-salt-powerful-remedy-that-cures-many-diseases.jpg =250x)<-
+![image](http://carnaldish.com/wp-content/uploads/2014/11/pansearedchickenbreast2.jpg)
+ ![image](http://a3145z1.americdn.com/wp-content/uploads/2014/08/sea-salt-powerful-remedy-that-cures-many-diseases.jpg =250x)<-
 
 ->![image](http://ww2.kqed.org/bayareabites/wp-content/uploads/sites/24/2014/12/ground-pepper.jpg =400x)<-
 
